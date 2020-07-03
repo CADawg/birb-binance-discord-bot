@@ -1,0 +1,48 @@
+{
+  "sellInfo": [
+    {
+      "symbol": "CELRBTC",
+      "split_symbol": [
+        "CELR",
+        "BTC"
+      ],
+      "stop_loss": 3.8e-7,
+      "take_profit": [
+        5.4e-7,
+        5.9e-7,
+        6.9e-7
+      ],
+      "quantity": 11539
+    },
+    {
+      "symbol": "QSPBTC",
+      "split_symbol": [
+        "QSP",
+        "BTC"
+      ],
+      "stop_loss": 0.00000215,
+      "take_profit": [
+        0.00000258,
+        0.00000276,
+        0.00000308,
+        0.00000363
+      ],
+      "quantity": 2134
+    },
+    {
+      "symbol": "XVGBTC",
+      "split_symbol": [
+        "XVG",
+        "BTC"
+      ],
+      "stop_loss": 6.4e-7,
+      "take_profit": [
+        9.6e-7,
+        0.00000104,
+        0.00000115,
+        0.00000138
+      ],
+      "quantity": 13002
+    }
+  ]
+}

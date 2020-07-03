@@ -1,0 +1,20 @@
+{
+  "name": "binance-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CADawg <snaddyvitchdispenser@cubiccastles.club> (http://snaddyvitch-dispenser.github..io)",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art-table": "^1.0.1",
+    "binance-api-node": "^0.10.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "node-windows": "^1.0.0-beta.1"
+  }
+}
